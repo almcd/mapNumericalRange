@@ -1,0 +1,15 @@
+{
+    "name": "@almcd/mapNumericalRange",
+    "version": "1.0.0",
+    "description": "Re-maps a number from one range to another",
+    "license": "MIT",
+    "repository": "almcd/mapNumericalRange",
+    "main": "index.js",
+    "keywords": [
+        "map",
+        "math",
+        "npm",
+        "package",
+        "almcd"
+      ]
+}
