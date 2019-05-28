@@ -1,6 +1,6 @@
 {
     "name": "@almcd/mapnumericalrange",
-    "version": "1.0.4",
+    "version": "1.0.5",
     "description": "Re-maps a number from one range to another",
     "license": "MIT",
     "repository": "almcd/mapNumericalRange",
