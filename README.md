@@ -1,8 +1,7 @@
 # mapnumericalrange
 
-![npm (scoped)](https://img.shields.io/npm/v/almcd/mapnumericalrange.svg)
-
-![npm bundle size (scoped)](https://img.shields.io/bundlephobia/min/almcd/mapnumericalrange.svg)
+![npm (scoped)](https://img.shields.io/npm/v/@almcd/mapnumericalrange.svg)
+![npm bundle size (scoped)](https://img.shields.io/bundlephobia/min/@almcd/mapnumericalrange.svg)
 
 Re-maps a number from one range to another.
 
